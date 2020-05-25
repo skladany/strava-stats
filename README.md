@@ -1,4 +1,4 @@
-# Strava Mileage
+# Strava Stats
 
 Simple API + Front-end to calcuate mileage goals, running on Heroku.
 
